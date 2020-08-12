@@ -13,7 +13,7 @@ body{
         width: 100%;
         height: 640px;
         top: 0;
-        background: url(/images/bg.jpg) center center / cover no-repeat;
+        background: url(images/bg.jpg) center center / cover no-repeat;
         .darkness{
             background-color: rgba(0, 0, 0, 0.8);
             .blacktop-inner{
@@ -30,7 +30,7 @@ body{
                     padding-right: 30px;
                     .logo1{
                         display: flex;
-                        background: url(/images/logo.png) center center / contain no-repeat;
+                        background: url(images/logo.png) center center / contain no-repeat;
                         width: 210px;
                         height: 37px;
                         margin-bottom: 30px;
@@ -191,7 +191,7 @@ body{
                 width: 350px;
                 height: 50px;
                 margin-right: 250px;
-                background: url(/images/logo2.png) center center / contain no-repeat;
+                background: url(images/logo2.png) center center / contain no-repeat;
             }
             nav{
                 width: 100%;
@@ -223,7 +223,7 @@ body{
             .employees-photo{
                 height:310px;
                 width: 560px;
-                background: url(/images/intro-image.jpg) center center / contain no-repeat;
+                background: url(images/intro-image.jpg) center center / contain no-repeat;
             }
         }
         .task-inner{
@@ -305,7 +305,7 @@ body{
                 .creators-photo{
                     width: 360px;
                     height:420px;
-                    background: url(/images/feature-image.jpg) center center / contain no-repeat;
+                    background: url(images/feature-image.jpg) center center / contain no-repeat;
                 }
             }
             .advantages{
@@ -323,7 +323,7 @@ body{
                         .pic1{
                             width: 50px;
                             height: 50px;
-                            background: url(/images/bookmark.png) center center / contain no-repeat;
+                            background: url(images/bookmark.png) center center / contain no-repeat;
                         }
                         .approach-inner{
                             h3{
@@ -346,7 +346,7 @@ body{
                         .pic3{
                             width: 50px;
                             height: 50px;
-                            background: url(/images/shopping-cart.png) center center / contain no-repeat;
+                            background: url(images/shopping-cart.png) center center / contain no-repeat;
                         }
                         .functions-inner{
                             h3{
@@ -372,7 +372,7 @@ body{
                         .pic2{
                             width: 50px;
                             height: 50px;
-                            background: url(/images/money.png) center center / contain no-repeat;
+                            background: url(images/money.png) center center / contain no-repeat;
                         }
                         .money-inner{
                             h3{
@@ -396,7 +396,7 @@ body{
                         .pic4{
                             width: 60px;
                             height: 60px;
-                            background: url(/images/group.png) center center / contain no-repeat;
+                            background: url(images/group.png) center center / contain no-repeat;
                         }
                         .process-inner{
                             h3{
@@ -477,7 +477,7 @@ body{
             .feature-photo{
                 height:340px;
                 width: 560px;
-                background: url(/images/feature2-image.jpg) center center / contain no-repeat;
+                background: url(images/feature2-image.jpg) center center / contain no-repeat;
             }
         }
     }
@@ -485,7 +485,7 @@ body{
         width: 100%;
         height: 535px;
         top: 0;
-        background: url(/images/bg.jpg) center center / cover no-repeat;
+        background: url(images/bg.jpg) center center / cover no-repeat;
         .darkness{
             background-color: rgba(0, 0, 0, 0.8);
             .call-inner{
@@ -600,28 +600,28 @@ body{
                     margin: 0 auto;
                     width: 70px;
                     height: 70px;
-                    background: url(/images/radio.png) center center / contain no-repeat;
+                    background: url(images/radio.png) center center / contain no-repeat;
                 }
                 .website-logo{
                     padding-top: 50px;
                     margin: 0 auto;
                     width: 70px;
                     height: 70px;
-                    background: url(/images/vr-gaming.png) center center / contain no-repeat;
+                    background: url(images/vr-gaming.png) center center / contain no-repeat;
                 }
                 .market-logo{
                     padding-top: 50px;
                     margin: 0 auto;
                     width: 70px;
                     height: 70px;
-                    background: url(/images/atom.png) center center / contain no-repeat;
+                    background: url(images/atom.png) center center / contain no-repeat;
                 }
                 .online-logo{
                     padding-top: 60px;
                     margin: 0 auto;
                     width: 60px;
                     height: 60px;
-                    background: url(/images/maintenance.png) center center / contain no-repeat;
+                    background: url(images/maintenance.png) center center / contain no-repeat;
                 }
                 h3{
                     font-family: 'Open Sans', sans-serif;
@@ -711,22 +711,22 @@ body{
             .finnair{
                 width: 220px;
                 height: 220px;
-                background: url(/images/finnair.png) center center / contain no-repeat;
+                background: url(images/finnair.png) center center / contain no-repeat;
             }
             .eventworld{
                 width: 220px;
                 height: 220px;
-                background: url(/images/event.png) center center / contain no-repeat;
+                background: url(images/event.png) center center / contain no-repeat;
             }
             .letidor{
                 width: 220px;
                 height: 220px;
-                background: url(/images/Letidor.png) center center / contain no-repeat;
+                background: url(images/Letidor.png) center center / contain no-repeat;
             }
             .vikingline{
                 width: 220px;
                 height: 220px;
-                background: url(/images/viking.png) center center / contain no-repeat;
+                background: url(images/viking.png) center center / contain no-repeat;
             }
         }
     }
@@ -768,7 +768,7 @@ body{
             .left{
                 position: absolute;
                 z-index: 3;
-                background: url(/images/left.png) center center / contain no-repeat;
+                background: url(images/left.png) center center / contain no-repeat;
                 height: 60px;
                 width: 60px;
                 cursor: pointer;
@@ -777,7 +777,7 @@ body{
             .right{
                 position: absolute;
                 z-index: 3;
-                background: url(/images/right.png) center center / contain no-repeat;
+                background: url(images/right.png) center center / contain no-repeat;
                 height: 60px;
                 width: 60px;
                 cursor: pointer;
@@ -821,17 +821,17 @@ body{
             .review:nth-child(1),
             .review:last-child{
                 .baklanov{
-                    background: url(/images/baklanov.jpg) center center / contain no-repeat;
+                    background: url(images/baklanov.jpg) center center / contain no-repeat;
                 }
             }
             .review:nth-child(2){
                 .starik{
-                    background: url(/images/starik.jpg) center center / contain no-repeat;
+                    background: url(images/starik.jpg) center center / contain no-repeat;
                 }  
             }
             .review:nth-child(3){
                 .vorobiyov{
-                    background: url(/images/vorobiov.jpg) center center / contain no-repeat;
+                    background: url(images/vorobiov.jpg) center center / contain no-repeat;
                 }
             }
         }
@@ -839,7 +839,7 @@ body{
     .write{
         width: 100%;
         height: 640px;
-        background: url(/images/bg.jpg) center center / cover no-repeat;
+        background: url(images/bg.jpg) center center / cover no-repeat;
         .darkness{
             background-color: rgba(0, 0, 0, 0.8);
             .write-inner{
@@ -870,7 +870,7 @@ body{
                             div{
                                 width: 30px;
                                 height: 30px;
-                                background: url(/images/location.png) center center / contain no-repeat;
+                                background: url(images/location.png) center center / contain no-repeat;
                             }
                             p{
                                 margin-left: 20px;
@@ -903,7 +903,7 @@ body{
                             div{
                                 width: 30px;
                                 height: 30px;
-                                background: url(/images/envelope.png) center center / contain no-repeat;   
+                                background: url(images/envelope.png) center center / contain no-repeat;   
                             }
                             .mail{
                                 margin-left: 20px;
@@ -1003,22 +1003,22 @@ body{
             .twitter{
                 width: 30px;
                 height: 30px;
-                background: url(/images/twitter.png) center center / contain no-repeat;
+                background: url(images/twitter.png) center center / contain no-repeat;
             }
             .facebook{
                 width: 30px;
                 height: 30px;
-                background: url(/images/facebook.png) center center / contain no-repeat;
+                background: url(images/facebook.png) center center / contain no-repeat;
             }
             .google{
                 width: 30px;
                 height: 30px;
-                background: url(/images/google-plus.png) center center / contain no-repeat;
+                background: url(images/google-plus.png) center center / contain no-repeat;
             }
             .instagram{
                 width: 30px;
                 height: 30px;
-                background: url(/images/instagram-sketched.png) center center / contain no-repeat;
+                background: url(images/instagram-sketched.png) center center / contain no-repeat;
             }
         }
     }
