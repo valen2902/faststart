@@ -17,7 +17,7 @@ body .blacktop {
   width: 100%;
   height: 640px;
   top: 0;
-  background: url(/images/bg.jpg) center center/cover no-repeat;
+  background: url(images/bg.jpg) center center/cover no-repeat;
 }
 
 body .blacktop .darkness {
@@ -50,7 +50,7 @@ body .blacktop .darkness .blacktop-inner .description .logo1 {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
-  background: url(/images/logo.png) center center/contain no-repeat;
+  background: url(images/logo.png) center center/contain no-repeat;
   width: 210px;
   height: 37px;
   margin-bottom: 30px;
@@ -263,7 +263,7 @@ body header .header-inner .logo2 {
   width: 350px;
   height: 50px;
   margin-right: 250px;
-  background: url(/images/logo2.png) center center/contain no-repeat;
+  background: url(images/logo2.png) center center/contain no-repeat;
 }
 
 body header .header-inner nav {
@@ -306,7 +306,7 @@ body .task .employees {
 body .task .employees .employees-photo {
   height: 310px;
   width: 560px;
-  background: url(/images/intro-image.jpg) center center/contain no-repeat;
+  background: url(images/intro-image.jpg) center center/contain no-repeat;
 }
 
 body .task .task-inner {
@@ -418,7 +418,7 @@ body .ideas .about-ideas .creators {
 body .ideas .about-ideas .creators .creators-photo {
   width: 360px;
   height: 420px;
-  background: url(/images/feature-image.jpg) center center/contain no-repeat;
+  background: url(images/feature-image.jpg) center center/contain no-repeat;
 }
 
 body .ideas .about-ideas .advantages {
@@ -445,7 +445,7 @@ body .ideas .about-ideas .advantages .advantages1 {
 body .ideas .about-ideas .advantages .advantages1 .approach .pic1 {
   width: 50px;
   height: 50px;
-  background: url(/images/bookmark.png) center center/contain no-repeat;
+  background: url(images/bookmark.png) center center/contain no-repeat;
 }
 
 body .ideas .about-ideas .advantages .advantages1 .approach .approach-inner h3 {
@@ -467,7 +467,7 @@ body .ideas .about-ideas .advantages .advantages1 .approach .approach-inner p {
 body .ideas .about-ideas .advantages .advantages1 .functions .pic3 {
   width: 50px;
   height: 50px;
-  background: url(/images/shopping-cart.png) center center/contain no-repeat;
+  background: url(images/shopping-cart.png) center center/contain no-repeat;
 }
 
 body .ideas .about-ideas .advantages .advantages1 .functions .functions-inner h3 {
@@ -493,7 +493,7 @@ body .ideas .about-ideas .advantages .advantages2 {
 body .ideas .about-ideas .advantages .advantages2 .money .pic2 {
   width: 50px;
   height: 50px;
-  background: url(/images/money.png) center center/contain no-repeat;
+  background: url(images/money.png) center center/contain no-repeat;
 }
 
 body .ideas .about-ideas .advantages .advantages2 .money .money-inner h3 {
@@ -515,7 +515,7 @@ body .ideas .about-ideas .advantages .advantages2 .money .money-inner p {
 body .ideas .about-ideas .advantages .advantages2 .process .pic4 {
   width: 60px;
   height: 60px;
-  background: url(/images/group.png) center center/contain no-repeat;
+  background: url(images/group.png) center center/contain no-repeat;
 }
 
 body .ideas .about-ideas .advantages .advantages2 .process .process-inner h3 {
@@ -616,14 +616,14 @@ body .quality .feature {
 body .quality .feature .feature-photo {
   height: 340px;
   width: 560px;
-  background: url(/images/feature2-image.jpg) center center/contain no-repeat;
+  background: url(images/feature2-image.jpg) center center/contain no-repeat;
 }
 
 body .call {
   width: 100%;
   height: 535px;
   top: 0;
-  background: url(/images/bg.jpg) center center/cover no-repeat;
+  background: url(images/bg.jpg) center center/cover no-repeat;
 }
 
 body .call .darkness {
@@ -780,7 +780,7 @@ body .price-list .services .card .card-logo, body .price-list .services .website
   margin: 0 auto;
   width: 70px;
   height: 70px;
-  background: url(/images/radio.png) center center/contain no-repeat;
+  background: url(images/radio.png) center center/contain no-repeat;
 }
 
 body .price-list .services .card .website-logo, body .price-list .services .website .website-logo, body .price-list .services .market .website-logo, body .price-list .services .online .website-logo {
@@ -788,7 +788,7 @@ body .price-list .services .card .website-logo, body .price-list .services .webs
   margin: 0 auto;
   width: 70px;
   height: 70px;
-  background: url(/images/vr-gaming.png) center center/contain no-repeat;
+  background: url(images/vr-gaming.png) center center/contain no-repeat;
 }
 
 body .price-list .services .card .market-logo, body .price-list .services .website .market-logo, body .price-list .services .market .market-logo, body .price-list .services .online .market-logo {
@@ -796,7 +796,7 @@ body .price-list .services .card .market-logo, body .price-list .services .websi
   margin: 0 auto;
   width: 70px;
   height: 70px;
-  background: url(/images/atom.png) center center/contain no-repeat;
+  background: url(images/atom.png) center center/contain no-repeat;
 }
 
 body .price-list .services .card .online-logo, body .price-list .services .website .online-logo, body .price-list .services .market .online-logo, body .price-list .services .online .online-logo {
@@ -804,7 +804,7 @@ body .price-list .services .card .online-logo, body .price-list .services .websi
   margin: 0 auto;
   width: 60px;
   height: 60px;
-  background: url(/images/maintenance.png) center center/contain no-repeat;
+  background: url(images/maintenance.png) center center/contain no-repeat;
 }
 
 body .price-list .services .card h3, body .price-list .services .website h3, body .price-list .services .market h3, body .price-list .services .online h3 {
@@ -917,25 +917,25 @@ body .clients .companies {
 body .clients .companies .finnair {
   width: 220px;
   height: 220px;
-  background: url(/images/finnair.png) center center/contain no-repeat;
+  background: url(images/finnair.png) center center/contain no-repeat;
 }
 
 body .clients .companies .eventworld {
   width: 220px;
   height: 220px;
-  background: url(/images/event.png) center center/contain no-repeat;
+  background: url(images/event.png) center center/contain no-repeat;
 }
 
 body .clients .companies .letidor {
   width: 220px;
   height: 220px;
-  background: url(/images/Letidor.png) center center/contain no-repeat;
+  background: url(images/Letidor.png) center center/contain no-repeat;
 }
 
 body .clients .companies .vikingline {
   width: 220px;
   height: 220px;
-  background: url(/images/viking.png) center center/contain no-repeat;
+  background: url(images/viking.png) center center/contain no-repeat;
 }
 
 body .reviews {
@@ -982,7 +982,7 @@ body .reviews .arrows {
 body .reviews .arrows .left {
   position: absolute;
   z-index: 3;
-  background: url(/images/left.png) center center/contain no-repeat;
+  background: url(images/left.png) center center/contain no-repeat;
   height: 60px;
   width: 60px;
   cursor: pointer;
@@ -992,7 +992,7 @@ body .reviews .arrows .left {
 body .reviews .arrows .right {
   position: absolute;
   z-index: 3;
-  background: url(/images/right.png) center center/contain no-repeat;
+  background: url(images/right.png) center center/contain no-repeat;
   height: 60px;
   width: 60px;
   cursor: pointer;
@@ -1043,21 +1043,21 @@ body .reviews .slider .review p {
 
 body .reviews .slider .review:nth-child(1) .baklanov,
 body .reviews .slider .review:last-child .baklanov {
-  background: url(/images/baklanov.jpg) center center/contain no-repeat;
+  background: url(images/baklanov.jpg) center center/contain no-repeat;
 }
 
 body .reviews .slider .review:nth-child(2) .starik {
-  background: url(/images/starik.jpg) center center/contain no-repeat;
+  background: url(images/starik.jpg) center center/contain no-repeat;
 }
 
 body .reviews .slider .review:nth-child(3) .vorobiyov {
-  background: url(/images/vorobiov.jpg) center center/contain no-repeat;
+  background: url(images/vorobiov.jpg) center center/contain no-repeat;
 }
 
 body .write {
   width: 100%;
   height: 640px;
-  background: url(/images/bg.jpg) center center/cover no-repeat;
+  background: url(images/bg.jpg) center center/cover no-repeat;
 }
 
 body .write .darkness {
@@ -1111,7 +1111,7 @@ body .write .darkness .write-inner .write-us .information .address {
 body .write .darkness .write-inner .write-us .information .address div {
   width: 30px;
   height: 30px;
-  background: url(/images/location.png) center center/contain no-repeat;
+  background: url(images/location.png) center center/contain no-repeat;
 }
 
 body .write .darkness .write-inner .write-us .information .address p {
@@ -1158,7 +1158,7 @@ body .write .darkness .write-inner .write-us .information .email {
 body .write .darkness .write-inner .write-us .information .email div {
   width: 30px;
   height: 30px;
-  background: url(/images/envelope.png) center center/contain no-repeat;
+  background: url(images/envelope.png) center center/contain no-repeat;
 }
 
 body .write .darkness .write-inner .write-us .information .email .mail {
@@ -1284,24 +1284,24 @@ body footer .networks .box {
 body footer .networks .twitter {
   width: 30px;
   height: 30px;
-  background: url(/images/twitter.png) center center/contain no-repeat;
+  background: url(images/twitter.png) center center/contain no-repeat;
 }
 
 body footer .networks .facebook {
   width: 30px;
   height: 30px;
-  background: url(/images/facebook.png) center center/contain no-repeat;
+  background: url(images/facebook.png) center center/contain no-repeat;
 }
 
 body footer .networks .google {
   width: 30px;
   height: 30px;
-  background: url(/images/google-plus.png) center center/contain no-repeat;
+  background: url(images/google-plus.png) center center/contain no-repeat;
 }
 
 body footer .networks .instagram {
   width: 30px;
   height: 30px;
-  background: url(/images/instagram-sketched.png) center center/contain no-repeat;
+  background: url(images/instagram-sketched.png) center center/contain no-repeat;
 }
 /*# sourceMappingURL=style.css.map */
